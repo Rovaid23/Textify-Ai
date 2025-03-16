@@ -1,0 +1,7 @@
+openai-whisper
+streamlit
+numpy
+torch
+pydub
+ffmpeg
+gtts
